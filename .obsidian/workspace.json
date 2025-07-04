@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
+                "file": "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
+                "file": "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
+                "file": "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
+                "file": "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,8 +171,10 @@
   },
   "active": "e2b5a01b7de4f4ec",
   "lastOpenFiles": [
-    "01 dev_workspace/01. dev_notes/Github GH CLI.md",
+    "02. home_workspace/00. home_admin/02. kyle_admin/01. content_overview.md",
+    "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
+    "01 dev_workspace/01. dev_notes/Github GH CLI.md",
     "02. home_workspace/00. home_admin/Untitled.canvas",
     "02. home_workspace/00. home_admin/03. aurora_admin",
     "02. home_workspace/00. home_admin/02. kyle_admin",
