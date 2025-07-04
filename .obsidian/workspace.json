@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github GH CLI.md",
+                "file": "01 dev_workspace/01. dev_notes/Github GH CLI.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github GH CLI.md",
+                "file": "01 dev_workspace/01. dev_notes/Github GH CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github GH CLI.md",
+                "file": "01 dev_workspace/01. dev_notes/Github GH CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github GH CLI.md",
+                "file": "01 dev_workspace/01. dev_notes/Github GH CLI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,11 +165,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2b5a01b7de4f4ec",
+  "active": "21b8e7776168d91d",
   "lastOpenFiles": [
-    "Github GH CLI.md"
+    "02. home_workspace/00. home_admin/Untitled.canvas",
+    "02. home_workspace/00. home_admin/03. aurora_admin",
+    "01 dev_workspace/01. dev_notes/Github GH CLI.md",
+    "02. home_workspace/00. home_admin/02. kyle_admin",
+    "02. home_workspace/00. home_admin/01. nicole_admin",
+    "03. career_workspace/00. career_admin",
+    "03. career_workspace",
+    "02. home_workspace/00. home_admin",
+    "02. home_workspace",
+    "01 dev_workspace/00. dev_admin",
+    "01 dev_workspace",
+    "01 dev_workspace/01. dev_notes"
   ]
 }
