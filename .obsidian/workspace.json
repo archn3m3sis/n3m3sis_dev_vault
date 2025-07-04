@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. career_workspace/00. career_admin/01. content_overview.md",
+                "file": "01 dev_workspace/01. dev_notes/01. github_review/02. github_cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. content_overview"
+              "title": "02. github_cli"
             }
           }
         ]
@@ -171,21 +171,24 @@
   },
   "active": "e2b5a01b7de4f4ec",
   "lastOpenFiles": [
-    "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
+    "01 dev_workspace/01. dev_notes/01. github_review/01. gitignore_walkthrough.md",
+    "01 dev_workspace/01. dev_notes/01. github_review/02. github_cli.md",
+    "04. vault_workspace/00. obsidian_admin/01. vault_attachments",
+    "04. vault_workspace/00. obsidian_admin/Untitled.md",
+    "04. vault_workspace/00. obsidian_admin",
+    "04. vault_workspace",
+    "02. home_workspace/01. home_accounts/01. EraserAI EDR Tool.md",
+    "01 dev_workspace/01. dev_notes/01. github_review",
     "03. career_workspace/00. career_admin/01. content_overview.md",
+    "02. home_workspace/01. home_accounts",
+    "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/02. kyle_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
-    "01 dev_workspace/01. dev_notes/Github GH CLI.md",
     "02. home_workspace/00. home_admin/Untitled.canvas",
     "02. home_workspace/00. home_admin/03. aurora_admin",
     "02. home_workspace/00. home_admin/02. kyle_admin",
     "02. home_workspace/00. home_admin/01. nicole_admin",
     "03. career_workspace/00. career_admin",
-    "03. career_workspace",
-    "02. home_workspace/00. home_admin",
-    "02. home_workspace",
-    "01 dev_workspace/00. dev_admin",
-    "01 dev_workspace",
-    "01 dev_workspace/01. dev_notes"
+    "03. career_workspace"
   ]
 }
