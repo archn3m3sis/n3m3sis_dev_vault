@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "spellcheck": false,
-  "attachmentFolderPath": "04. vault_workspace/00. obsidian_admin/01. vault_attachments"
+  "attachmentFolderPath": "04. vault_workspace/00. obsidian_admin/01. vault_attachments",
+  "showLineNumber": true
 }
