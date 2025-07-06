@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 dev_workspace/01. dev_notes/01. dev_cli/01. direnv.md",
+                "file": "02. home_workspace/01. home_accounts/04..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. direnv"
+              "title": "04."
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_components/01. custom_javascript_components.md",
+                "file": "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts/02. reflex_type_animation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. custom_javascript_components"
+              "title": "02. reflex_type_animation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "924f73fd9997df55",
@@ -184,18 +183,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99c7a3062889533b",
+  "active": "e2b5a01b7de4f4ec",
   "lastOpenFiles": [
+    "02. home_workspace/01. home_accounts/01. eraser_ai_edr_tool.md",
+    "02. home_workspace/01. home_accounts/04..md",
+    "02. home_workspace/01. home_accounts/02. open_ai_account.md",
+    "02. home_workspace/01. home_accounts/03. spline_js_account.md",
+    "02. home_workspace/00. home_admin/02. kyle_admin/02. family_timeline.md",
+    "02. home_workspace/00. home_admin/02. kyle_admin/01. content_overview.md",
+    "02. home_workspace/00. home_admin/02. kyle_admin/02. family_timeline",
+    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts/02. reflex_type_animation.md",
+    "01 dev_workspace/01. dev_notes/01. dev_cli/01. direnv.md",
+    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts/01. custom_javascript_components.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/01. project_package_review.md",
-    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_components/01. custom_javascript_components.md",
-    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_components",
+    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/03. project_timeline.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/02. project_repository_information.md",
-    "01 dev_workspace/01. dev_notes/01. dev_cli/01. direnv.md",
     "conflict-files-obsidian-git.md",
-    "02. home_workspace/00. home_admin/02. kyle_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
-    "02. home_workspace/01. home_accounts/01. EraserAI EDR Tool.md",
     "02. home_workspace/01. home_accounts",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial",
@@ -209,7 +214,6 @@
     "02. home_workspace/00. home_admin/01. nicole_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/Untitled.canvas",
     "02. home_workspace/00. home_admin/03. aurora_admin",
-    "02. home_workspace/00. home_admin/02. kyle_admin",
-    "02. home_workspace/00. home_admin/01. nicole_admin"
+    "02. home_workspace/00. home_admin/02. kyle_admin"
   ]
 }
