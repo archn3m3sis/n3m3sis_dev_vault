@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/01. bun_package_manager/01. What Is Bun?.md",
+                "file": "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life/07.07.2025 - py_life_development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. What Is Bun?"
+              "title": "07.07.2025 - py_life_development"
             }
           }
         ]
@@ -171,9 +171,17 @@
   },
   "active": "e2b5a01b7de4f4ec",
   "lastOpenFiles": [
-    "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/02. spline_javascript/01. glass_effect_in_spline.md",
+    "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces/01. warp_terminal/01. warp_terminal_overview.md",
+    "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life/07.07.2025 - py_life_development.md",
+    "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life",
+    "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/02. uv_package_manager/01. uv_command_reference.md",
+    "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces/01. warp_terminal",
+    "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces",
+    "01 dev_workspace/01. dev_notes/04. dev_tools",
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/01. bun_package_manager/01. What Is Bun?.md",
     "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/01. reflex_framework/03. url_redirect_constants.md",
+    "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/02. uv_package_manager",
+    "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/02. spline_javascript/01. glass_effect_in_spline.md",
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/01. bun_package_manager",
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development",
     "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development",
@@ -191,13 +199,8 @@
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments/Pasted image 20250706001133.png",
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments",
     "04. vault_workspace/00. obsidian_admin",
-    "04. vault_workspace",
-    "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/02. spline_javascript",
-    "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/01. reflex_framework",
-    "01 dev_workspace/01. dev_notes/03. dev_language",
     "02. home_workspace/01. home_accounts/01. eraser_ai_edr_tool.md",
     "02. home_workspace/00. home_admin/02. kyle_admin/02. family_timeline.md",
-    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts",
     "01 dev_workspace/01. dev_notes/01. dev_cli/01. direnv.md",
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments/Pasted image 20250705225535.png",
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments/Pasted image 20250705225250.png",
@@ -208,9 +211,6 @@
     "01 dev_workspace/01. dev_notes/01. github_review/02. github_cli.md",
     "01 dev_workspace/01. dev_notes/01. github_review/01. gitignore_walkthrough.md",
     "04. vault_workspace/00. obsidian_admin/Untitled.md",
-    "03. career_workspace/00. career_admin/01. content_overview.md",
-    "02. home_workspace/00. home_admin/03. aurora_admin/01. content_overview.md",
-    "02. home_workspace/00. home_admin/02. kyle_admin/01. content_overview.md",
     "02. home_workspace/00. home_admin/Untitled.canvas"
   ]
 }
