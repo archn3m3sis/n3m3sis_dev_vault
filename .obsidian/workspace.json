@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bb0b05ce55a8b88b",
+        "id": "91d4b18657fbc39b",
         "type": "tabs",
         "children": [
           {
-            "id": "e2b5a01b7de4f4ec",
+            "id": "5d0291c32d752efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life/07.07.2025 - py_life_development.md",
+                "file": "05. ai_assistance/01. reflex_web_upload/reflex_introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.07.2025 - py_life_development"
+              "title": "reflex_introduction"
+            }
+          },
+          {
+            "id": "101d90711b8a7fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "making_life_quick_in_chrome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "making_life_quick_in_chrome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2b5a01b7de4f4ec",
+  "active": "21b8e7776168d91d",
   "lastOpenFiles": [
-    "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces/01. warp_terminal/01. warp_terminal_overview.md",
+    "04. vault_workspace/01. reflex_introduction.md",
+    "Clippings/ChatGPT.md",
+    "making_life_quick_in_chrome.md",
+    "Clippings",
+    "05. ai_workspace/01. reflex_web_upload/reflex_introduction.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life/07.07.2025 - py_life_development.md",
+    "05. ai_workspace/01. reflex_web_upload",
+    "05. ai_workspace",
+    "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces/01. warp_terminal/01. warp_terminal_overview.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/02. py_life",
     "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/02. uv_package_manager/01. uv_command_reference.md",
     "01 dev_workspace/01. dev_notes/04. dev_tools/01. terminal_workspaces/01. warp_terminal",
@@ -184,7 +206,6 @@
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/02. spline_javascript/01. glass_effect_in_spline.md",
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development/01. bun_package_manager",
     "01 dev_workspace/01. dev_notes/03. dev_language/02. javascript_development",
-    "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development",
     "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/01. reflex_framework/02. link_based_navigation.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts/01. custom_javascript_components.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/02. project_concepts/02. reflex_type_animation.md",
@@ -197,8 +218,6 @@
     "01 dev_workspace/01. dev_notes/03. dev_language/01. python_development/01. reflex_framework/01. local_auth_with_reflex.md",
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments/Pasted image 20250706124447.png",
     "04. vault_workspace/00. obsidian_admin/01. vault_attachments/Pasted image 20250706001133.png",
-    "04. vault_workspace/00. obsidian_admin/01. vault_attachments",
-    "04. vault_workspace/00. obsidian_admin",
     "02. home_workspace/01. home_accounts/01. eraser_ai_edr_tool.md",
     "02. home_workspace/00. home_admin/02. kyle_admin/02. family_timeline.md",
     "01 dev_workspace/01. dev_notes/01. dev_cli/01. direnv.md",
@@ -207,10 +226,6 @@
     "02. home_workspace/01. home_accounts/01. EraserAI EDR Tool.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/03. project_timeline.md",
     "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/02. project_repository_information.md",
-    "01 dev_workspace/01. dev_notes/02. dev_projects/01. cyber_industrial/01. project_outline/01. project_package_review.md",
-    "01 dev_workspace/01. dev_notes/01. github_review/02. github_cli.md",
-    "01 dev_workspace/01. dev_notes/01. github_review/01. gitignore_walkthrough.md",
-    "04. vault_workspace/00. obsidian_admin/Untitled.md",
     "02. home_workspace/00. home_admin/Untitled.canvas"
   ]
 }
